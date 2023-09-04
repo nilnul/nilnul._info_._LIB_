@@ -163,6 +163,7 @@
     <Compile Include="entropy\reduce_\learn\be_\nonreversible\ICounterChaos.cs" />
     <Compile Include="entropy\reduce_\learn\_antichaos\IChaos.cs" />
     <Compile Include="IEntropy.cs" />
+    <Compile Include="IIntelligence.cs" />
     <Compile Include="INeed.cs" />
     <Compile Include="know\Recur.cs" />
     <Compile Include="nilnul0\Info.cs" />
@@ -177,11 +178,23 @@
     <Compile Include="nilnul0\stat\dist_\finite\entropy_\Egal.cs" />
     <Compile Include="nilnul0\stat\dist_\finite\evt_\positive\Info.cs" />
     <Compile Include="nilnul0\stat\dist_\finite\_entropy\evt\InfoDiscounted.cs" />
+    <Compile Include="nilnul0\_info\IIndefinite.cs" />
     <Compile Include="nilnul0\_info\INonphysical.cs" />
-    <Compile Include="nilnul0\_info\IUncertainty.cs" />
     <Compile Include="nilnul0\_info\stateful\Uncertainty.cs" />
     <Compile Include="nilnul0\_info\Stateful.cs" />
-    <Compile Include="nilnul0\_info\uncertainty\IMeasure.cs" />
+    <Compile Include="nilnul0\_info\_indefinite\proffer\co_\Shortlist.cs" />
+    <Compile Include="nilnul0\_info\_indefinite\proffer\co_\shortlist\IUncertaintyReduced.cs" />
+    <Compile Include="nilnul0\_info\_indefinite\proffer\NewFolder1\IMeasure.cs" />
+    <Compile Include="nilnul0\_info\_indefinite\proffer\IMeasure.cs" />
+    <Compile Include="nilnul0\_info\_indefinite\proffer\op_\binary_\FineTune.cs" />
+    <Compile Include="nilnul0\_info\_indefinite\proffer\op_\binary_\finetune\cumulator\ICumulate.cs" />
+    <Compile Include="nilnul0\_info\_indefinite\proffer\op_\binary_\finetune\ICumulator.cs" />
+    <Compile Include="nilnul0\_info\_indefinite\Proffer.cs" />
+    <Compile Include="nilnul0\_info\_indefinite\proffer\_measure\IUnit.cs" />
+    <Compile Include="nilnul0\_info\_indefinite\proffer\_measure\unit_\IBit.cs" />
+    <Compile Include="nilnul0\_info\_indefinite\_proffer\Bid.cs" />
+    <Compile Include="nilnul0\_info\_indefinite\_proffer\IBids.cs" />
+    <Compile Include="nilnul0\_info\_indefinite\_proffer_\LeewayI.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="sanitize_\Relevantzie.cs" />
     <Compile Include="sanitize_\Anonymize.cs" />
@@ -200,7 +213,9 @@
   <ItemGroup>
     <Folder Include="nilnul0\stat\dist\entropy\" />
     <Folder Include="nilnul0\stat\dist_\finite\_entropy_\" />
+    <Folder Include="nilnul0\_info\uncertainty\" />
     <Folder Include="nilnul0\_info\_entropy\" />
+    <Folder Include="nilnul0\_info\_indefinite\proffer\measure_\_bit\" />
     <Folder Include="_data\level_\" />
     <Folder Include="_data\types\struc\serialization\" />
   </ItemGroup>
