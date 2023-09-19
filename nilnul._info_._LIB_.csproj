@@ -180,10 +180,11 @@
     <Compile Include="nilnul0\stat\dist_\finite\_entropy\evt\InfoDiscounted.cs" />
     <Compile Include="nilnul0\_info\IIndefinite.cs" />
     <Compile Include="nilnul0\_info\INonphysical.cs" />
-    <Compile Include="nilnul0\_info\stateful\Uncertainty.cs" />
     <Compile Include="nilnul0\_info\Stateful.cs" />
+    <Compile Include="nilnul0\_info\_indefinite\proffer\Compare.cs" />
     <Compile Include="nilnul0\_info\_indefinite\proffer\co_\Shortlist.cs" />
     <Compile Include="nilnul0\_info\_indefinite\proffer\co_\shortlist\IUncertaintyReduced.cs" />
+    <Compile Include="nilnul0\_info\_indefinite\proffer\measure_\Bit.cs" />
     <Compile Include="nilnul0\_info\_indefinite\proffer\NewFolder1\IMeasure.cs" />
     <Compile Include="nilnul0\_info\_indefinite\proffer\IMeasure.cs" />
     <Compile Include="nilnul0\_info\_indefinite\proffer\op_\binary_\FineTune.cs" />
@@ -213,7 +214,6 @@
   <ItemGroup>
     <Folder Include="nilnul0\stat\dist\entropy\" />
     <Folder Include="nilnul0\stat\dist_\finite\_entropy_\" />
-    <Folder Include="nilnul0\_info\uncertainty\" />
     <Folder Include="nilnul0\_info\_entropy\" />
     <Folder Include="nilnul0\_info\_indefinite\proffer\measure_\_bit\" />
     <Folder Include="_data\level_\" />
