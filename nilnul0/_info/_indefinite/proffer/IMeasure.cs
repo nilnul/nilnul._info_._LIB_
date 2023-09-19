@@ -20,6 +20,10 @@ namespace nilnul._info._indefinite.proffer
 	/// we need the measure is nonneg. so the base of the lg is gt 1.
 	/// 
 	/// </remarks>
+    /// alias:
+    ///		不确定度
+    ///			, like 长度 for which we can use metric, Chinese traditional, or British
+    ///			, not only quanlitative, but also quantitative;
 	internal class IMeasure
 	{
 	}
