@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace nilnul._info.uncertainty
+namespace nilnul._info._indefinite.proffer
 {
 	/// <summary>
 	/// given n states,

@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -29,18 +28,11 @@ namespace nilnul._info._indefinite.proffer
 	/// we need the measure is nonneg. so the base of the lg is gt 1.
 	/// 
 	/// </remarks>
-    /// alias:
-    ///		不确定度
-    ///			, like 长度 for which we can use metric, Chinese traditional, or British
-    ///			, not only quanlitative, but also quantitative;
+	/// alias:
+	///		不确定度
+	///			, like 长度 for which we can use metric, Chinese traditional, or British
+	///			, not only quanlitative, but also quantitative;
 	internal class IMeasure
 	{
-	}
-
-	static public class _MeasureX
-	{
-		static public double _Measure_0leeway(int options) {
-			return Math.Log(options, 2);
-		}
 	}
 }
